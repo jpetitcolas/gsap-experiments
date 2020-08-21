@@ -1,0 +1,9 @@
+{
+  "name": "gsap-experiments",
+  "version": "1.0.0",
+  "description": "Some experiments with GSAP, the animation library",
+  "main": "index.js",
+  "author": "Jonathan Petitcolas <petitcolas.jonathan@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
