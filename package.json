@@ -5,5 +5,11 @@
   "main": "index.js",
   "author": "Jonathan Petitcolas <petitcolas.jonathan@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "gsap": "^3.5.0"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
 }
